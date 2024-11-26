@@ -1,0 +1,12 @@
+{
+    "app": {
+      "name": "电商平台",
+      "description": "下一代电商解决方案"
+    },
+    "nav": {
+      "home": "首页",
+      "products": "商品",
+      "cart": "购物车",
+      "account": "账户"
+    }
+  }

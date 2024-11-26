@@ -1,0 +1,12 @@
+{
+    "app": {
+      "name": "E-Commerce",
+      "description": "Next Generation E-Commerce Solution"
+    },
+    "nav": {
+      "home": "Home",
+      "products": "Products",
+      "cart": "Cart",
+      "account": "Account"
+    }
+  }
